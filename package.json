@@ -27,7 +27,7 @@
     "hardhat": "2.10.1",
     "mocha": "10.0.0",
     "tsc": "2.0.4",
-    "typescript": "4.7.4"
+    "typescript": "4.8.2"
   },
   "peerDependencies": {
     "hardhat": "^2.0.0",
